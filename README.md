@@ -1,4 +1,4 @@
-# add-new-user-role
-lessthanweb. How To:Add New User Role example code.
+# add-custom-capabilities-to-user-roles
+lessthanweb. How To: Add Custom Capabilities To User Roles example code.
 
-Continue reading at https://www.lessthanweb.com/blog/add-new-user-role
+Continue reading at https://www.lessthanweb.com/blog/add-custom-capabilities-to-user-roles
